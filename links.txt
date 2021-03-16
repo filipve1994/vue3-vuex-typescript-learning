@@ -1,0 +1,38 @@
+- https://labs.thisdot.co/blog/your-first-vue-3-app-using-typescript
+- https://soshace.com/building-web-apps-with-vue-3-composition-api-typescript-vuex4-0/
+- https://dev.to/lmillucci/building-a-vue-3-component-with-typescript-4pge
+- https://madewithvuejs.com/large-scale-apps-with-vue-and-typescript
+- https://madewithvuejs.com/vuejs-3-cookbook
+- https://codesandbox.io/embed/using-vuex-4-modules-in-vue-3-with-typescript-7ygvy?codemirror=1
+- https://vuejsexamples.com/a-vue-3-components-library-with-30-components-based-on-typescript/amp/
+- https://webdevetc.com/blog/vue-3-guide-with-example-code-snippets/
+- https://johnpapa.net/vue2-to-vue3/amp/
+- https://bezkoder.com/vue-typescript-crud/
+- https://codesource.io/creating-custom-hooks-with-vue-3-typescript/amp/
+- https://blog.logrocket.com/how-to-write-a-vue-js-app-completely-in-typescript/
+- https://v3.vuejs.org/guide/typescript-support.html#project-creation
+- https://www.reddit.com/r/vuejs/comments/j947c4/webstormvue3_question_about_class_components_and/?utm_source=amp&utm_medium=&utm_content=post_body
+- https://scotch.io/bar-talk/class-components-in-vue-are-no-longer-happening
+
+- https://www.newline.co/@kchan/vue-3-the-composition-api-part-1--afbd9dbf
+- https://www.newline.co/@kchan/vue-3-the-composition-api-reusability-part-2--6762791a
+
+- https://www.newline.co/@kchan/building-a-graphql-application-with-vue-3-and-apollo--4679b402
+- https://dev.to/ellis22/vue-js-3-tutorial-with-example-components-props-composition-api-32lf
+- https://dev.to/ellis22/how-to-use-composition-api-in-vue-3-with-simple-todos-example-46p8
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
